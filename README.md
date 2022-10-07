@@ -1,5 +1,5 @@
 # Asspixel Webclient - (Precision Client)
 
-Client made by - etcherfx https://github.com/etcherfx
+Client made by: EtcherFX
 
 Check out the source code here: https://github.com/etcherfx/precisionclient
